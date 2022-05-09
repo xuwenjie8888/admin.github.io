@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyadmin"]=self["webpackChunkmyadmin"]||[]).push([[129],{5129:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var r=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[n("el-card",[n("el-link",{attrs:{href:"#",target:"_blank"}},[e._v("掘金文档")])],1)],1)},a=[],u={name:"Doc",components:{},mixins:[],props:{},data(){return{}},computed:{},watch:{},created(){},mounted(){},destroyed(){},methods:{}},c=u,s=n(1001),d=(0,s.Z)(c,r,a,!1,null,"0b4095ee",null),l=d.exports}}]);
+//# sourceMappingURL=129.c84f3666.js.map
